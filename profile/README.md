@@ -2,7 +2,7 @@
 
 Yes, this is the official M22504 GitHub Organisation.
 
-<p align="center"><img src="logo.jpg" width="70%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/M22504/.github/main/profile/logo.jpg" width="70%" /></p>
 
 
 
